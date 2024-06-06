@@ -1,2 +1,2 @@
-# CSS-project-2
-Netflix Clone
+
+Netflix Clone home web page
